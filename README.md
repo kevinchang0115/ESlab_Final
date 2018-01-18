@@ -1,4 +1,4 @@
-# Embedded System - FinalProject
+# Embedded System - Final Project
 RFID Door Locking System by Tessel
 
 ## Introdction
